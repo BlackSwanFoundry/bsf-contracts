@@ -1,6 +1,6 @@
 {
-  "name": "openzeppelin-solidity",
-  "description": "Secure Smart Contract library for Solidity",
+  "name": "bsf-solidity",
+  "description": "Secure Smart Contract library for Solidity, fork of openzeppelin-solidity",
   "version": "4.4.1",
   "files": [
     "/contracts/**/*.sol",
@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts.git"
+    "url": "https://github.com/BlackSwanFoundry/openzeppelin-contracts.git"
   },
   "keywords": [
     "solidity",
@@ -46,7 +46,7 @@
   "author": "OpenZeppelin Community <maintainers@openzeppelin.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts/issues"
+    "url": "https://github.com/BlackSwanFoundry/openzeppelin-contracts/issues"
   },
   "homepage": "https://openzeppelin.com/contracts/",
   "devDependencies": {
