@@ -1,6 +1,6 @@
 {
   "name": "bsf-solidity",
-  "description": "Secure Smart Contract library for Solidity - Based on OpenZeppelin",
+  "description": "Secure smart contract library for Solidity, based on Open Zeppelin.",
   "version": "1.0.0",
   "files": [
     "/contracts/**/*.sol",
